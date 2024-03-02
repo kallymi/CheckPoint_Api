@@ -1,0 +1,12 @@
+/* src/App.css */
+.user-list {
+  list-style: none;
+  padding: 0;
+}
+
+.user-list li {
+  margin: 8px 0;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
